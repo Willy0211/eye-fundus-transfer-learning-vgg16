@@ -1,6 +1,6 @@
 # eye-fundus-transfer-learning-vgg16
 
-## Nama  : Willy 
+Nama  : Willy 
 NIM   : 20210801283
 
 Berkut ini merupakan source code proses pelatihan model deteksi penyakit mata berdasarkan citra fundus menggunakan metode transfer learning VGG-16.
